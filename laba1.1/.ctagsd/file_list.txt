@@ -1,0 +1,6 @@
+/home/23ptv104@ibst.psu/TIMP/laba1_chast2/modAlphakey.h
+/home/23ptv104@ibst.psu/TIMP/laba1_chast2/main.cpp
+/home/23ptv104@ibst.psu/TIMP/laba1_chast2/modAlphakey.cpp
+/home/23ptv104@ibst.psu/TIMP/laba1_chast1/main.cpp
+/home/23ptv104@ibst.psu/TIMP/laba1_chast1/modAlphaChiper.h
+/home/23ptv104@ibst.psu/TIMP/laba1_chast1/modAlphaChiper.cpp
